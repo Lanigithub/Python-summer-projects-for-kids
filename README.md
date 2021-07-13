@@ -1,1 +1,2 @@
-# Python-summer-projects-for-kids
+### Python-summer-projects-for-kids
+### Quiz 1: numbers and strings
