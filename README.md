@@ -7,6 +7,7 @@ List methods:
 append,clear(),copy(), sort(),insert(location, new item),pop(index), remove(item),reverse(),extend(), count(),index()
 
 Tuple methods: count(), index()
+
 Set methods: add(), union(set1,set2), pop()-random item; remove(item),x.pdate(y) ; discard(specific item); clear( )-all
 intersection( ) -find the common items; copy()
 
